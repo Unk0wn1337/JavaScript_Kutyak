@@ -1,0 +1,13 @@
+* {
+    box-sizing: border;
+    margin: auto;
+}
+table {
+    border: solid 1px black;
+}
+table tr {
+    border: solid 1px black;
+}
+table td {
+    border: solid 1px black;
+}
